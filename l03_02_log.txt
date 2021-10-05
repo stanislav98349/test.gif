@@ -1,0 +1,15 @@
+commit 26406cfa08bb4949aeebbf7770eead4216efb2f3
+Author: staniskav_andrianov <stanislav290487@gmail.com>
+Date:   Tue Oct 5 22:53:34 2021 +0300
+
+    Rebuild script_02.py and the results of 3 gif files
+
+commit 8ea2ce414f5a2b58933072c2688abd0dabf55afd
+Author: staniskav_andrianov <stanislav290487@gmail.com>
+Date:   Tue Oct 5 22:30:00 2021 +0300
+
+    Create script_02.py and the result - test.gif
+
+
+
+https://github.com/stanislav98349/test.gif.git
